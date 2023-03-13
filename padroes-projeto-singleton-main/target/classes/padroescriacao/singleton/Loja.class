@@ -1,0 +1,10 @@
+Êþº¾   7 $
+  	  	   	  ! "
+   # instance *Lpadroescriacao/singleton/Loja; nomeLoja Ljava/lang/String; funcionarioCaixa <init> ()V Code LineNumberTable LocalVariableTable this getInstance ,()Lpadroescriacao/singleton/Loja; getNomeLoja ()Ljava/lang/String; setNomeLoja (Ljava/lang/String;)V getUsuarioLogado setUsuarioLogado <clinit> 
+SourceFile Loja.java    	 
+    (padroescriacao/singleton/Loja java/lang/Object !      
+  	    
+                 /     *· ±                     	   	             ² °                   /     *´ °                     	          >     *+µ ±       
+                	      
+          /     *´ °                     	          >     *+µ ±       
+                	                #      » Y· ³ ±                 
